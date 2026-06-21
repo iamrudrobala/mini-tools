@@ -2,7 +2,7 @@
 
 A collection of small tools I build while learning programming and experimenting with ideas.
 
-This repository is for:
+This repository is for:-
 
 * Practicing Python
 * Building useful utilities
