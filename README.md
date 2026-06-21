@@ -51,6 +51,7 @@ A@8mQ#2xLp!3Tz&
 * File Organizer
 * Word Counter
 * Codeforces Stats Viewer
+* More options
 * More...
 
 ## Run Locally
