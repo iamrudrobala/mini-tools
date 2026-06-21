@@ -70,7 +70,7 @@ cd mini-tools
 Run:
 
 ```bash
-python main.py
+python passGen.py
 ```
 
 ---
