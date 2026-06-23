@@ -73,7 +73,9 @@ Run:
 ```bash
 python passGen.py
 ```
-
+```bash
+python studytimer.py
+```
 ---
 
 Made by Rudro Bala
