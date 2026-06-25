@@ -25,6 +25,9 @@ Features:
 * Customizable length (planned)
 * More options coming soon
 
+New:
+* Added time warning in study timer
+
 Example:
 
 ```bash
