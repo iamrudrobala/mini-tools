@@ -41,7 +41,7 @@ Enter the name (leave it empty to quit)
 
 ## How to Run
 
-1. Save the code in a file named `birthday.py`.
+1. Save the code in a file named `birthdaybase.py`.
 2. Open a terminal or command prompt.
 3. Run:
 
