@@ -12,7 +12,7 @@ A simple Python program that stores birthdays in a dictionary and allows users t
 * Add new names and birthdays interactively.
 * Runs continuously until the user exits.
 
-```
+
 
 ## Example
 
